@@ -1,2 +1,1 @@
-This repositry contains code by Muhammad Areeb Siddiqui.
-FROM CLASS 12:15PM - 03:15PM
+This folder (Chap#6) consist of code by Muhammad Areeb Siddiqui from class 12:15.
