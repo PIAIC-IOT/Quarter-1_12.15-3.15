@@ -13,7 +13,7 @@ fn main() {
         last_name:String::from("Jinnah"),
     };
 
-    let shair_e_mashriq = Fullname {
+    let shair_e_mashrik = Fullname {
         first_name:String::from("Allama"),
         middle_name:Option::None,
         last_name:String::from("Iqbal"),
@@ -21,7 +21,7 @@ fn main() {
    
     let result = check(qauid_e_azam);
     println!("{}",result);
-    let result = check(shair_e_mashriq);
+    let result = check(shair_e_mashrik);
     println!("{}",result);
    
 }
